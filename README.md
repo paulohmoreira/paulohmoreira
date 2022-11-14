@@ -7,11 +7,8 @@ I have a bachelor's degree in Information Systems and i'm focused on specializin
 ---
 
 <div align='center'>
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=paulohmoreira&show_icons=true&theme=default&include_all_commits=true"/>
+  <img height="150rem" src="https://github-readme-streak-stats.herokuapp.com?user=paulohmoreira&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohmoreira&layout=compact&langs_count=16&theme=default"/>
-</div>
-<div align='center'>
- <img height="150rem" src="https://github-readme-streak-stats.herokuapp.com?user=paulohmoreira&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
 ---
