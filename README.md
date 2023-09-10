@@ -1,5 +1,5 @@
 ### My techs
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,scss,bootstrap,css,html,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,scss,styledcomponents,bootstrap,css,html,git)](https://skillicons.dev)
   
 ---
   
